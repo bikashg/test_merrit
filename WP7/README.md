@@ -1,6 +1,6 @@
-# Project skeleton
+# Project Template
 
-This repository contains a starter kit for our Data Science/Machine Learning projects. Use this template if you need to do any exploratory data analysis, machine learning, or run code in the KMi Big Data Cluster.
+This template provides a starter kit for structuring our Data Science/Machine Learning projects. Use this template if you need to do any exploratory data analysis, machine learning, or run code in the KMi Big Data Cluster.
 
 Nothing in this repository is binding, all examples are indeed just examples. Adjust the structure of this repository to what works for you and for your project.
 
