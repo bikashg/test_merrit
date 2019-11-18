@@ -2,7 +2,7 @@
 
 This template provides a starter kit for structuring our Data Science/Machine Learning projects. Use this template if you need to do any exploratory data analysis, machine learning, or run code in the KMi Big Data Cluster.
 
-Nothing in this repository is binding, all examples are indeed just examples. Adjust the structure of this repository to what works for you and for your project.
+Follow the examples provided and adjust the structure of this repository to what works for you and for your project.
 
 The code in this repository uses **Python 3+** (was tested with Python 3.6.4).
 
