@@ -3,7 +3,7 @@ matplotlib
 nltk
 numpy
 pandas
-pyspark==2.4.0
+pyspark==3.2.2
 scikit-learn
 scipy
 seaborn
